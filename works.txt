@@ -1,8 +1,2 @@
 GET https://api.procedesoftware.com/public/customers/11218
 
-User-Agent: Fiddler
-Host: api.procedesoftware.com
-Content-Type: application/json
-Accept: application/json
-X-ss-pid: YZ2PnFIEaLXFYROv5SwR
-x-ss-opt: perm
